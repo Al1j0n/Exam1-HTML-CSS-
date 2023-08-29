@@ -1,0 +1,180 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+
+.block_2{
+    margin-top: 100px;
+   
+    margin-left: 250px;
+    width: 100%;
+    
+}
+
+.all{
+    /* display: flex;   */
+}
+.Interior {
+    font-size: 70px;
+}
+.Showcase{
+    font-size: 50px;
+    color: red;
+}
+.blockpage{
+    margin-left: 250px;
+    display: flex;
+    gap: 30px;
+}
+.services{
+    font-size: 30px;
+    margin-left: 250px;
+    color: red;
+}
+.para{
+    margin-left: 250px;
+}
+.desing{
+       font-size: 30px;
+    margin-left: 250px;
+    color: red; 
+}
+.john{
+    margin-left: 250px;
+    box-shadow: 0px 0px 2px black;
+
+}
+.page{
+
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    padding-top: 25px;
+    margin-left: 100px;
+    
+    
+}
+.page1{
+    box-shadow: 0px 0px 5px black ;
+  
+}
+
+.page2{
+    box-shadow: 0px 0px 5px #000;
+
+}
+
+.page3{
+    box-shadow: 0px 0px 5px black;
+}
+h3{
+    margin-left: 20px;
+    font-size: 40px;
+}
+.page p{
+    margin-left: 17px;
+    
+}
+.pac{
+    color: red;
+    margin-left: 250px;
+    font-size: 30px;
+}
+.paa{
+    margin-left: 250px;
+    font-family: cursive;
+    font-size: 17px;
+}
+.opshiy{
+    width: 100%;
+    display: flex;
+    width: 100%;
+    gap: 30px;
+    margin-left: 250px;
+    
+}
+.basic{
+    margin-left: 10px;
+    width: 30%;
+    width: 100%;
+}
+.box{
+    box-shadow: 0px 0px 5px black;
+    list-style: none;
+    width: 100%;
+}
+.box1{
+    background-color: gray;
+    color: #fff;
+    text-align: center;
+    padding: 30px;
+    font-size: 35px;
+    
+   
+}
+li{
+    padding: 30px;
+    box-shadow: 0px 0px 2px black;
+    font-size: 18px;
+    text-align: center;
+}
+button{
+    width: 100px;
+    background-color: #fff;
+    color: black;
+    padding: 15px;
+    margin-left: 180px;
+    margin-top: 30px;
+    margin-bottom: 15px;
+}
+.bas{
+      box-shadow: 0px 0px 5px black;
+    width: 30%;
+    list-style: none;
+    
+    
+}
+button:hover{
+    background-color: #000;
+    color: #fff;
+}
+.box2{
+    background-color: red;
+    color: #fff;
+    list-style: none;
+    border: none;
+}
+.contactt{
+    font-size: 25px;
+    color: red;
+    margin-left: 250px;
+}
+.name{
+    margin-left: 250px;
+}
+.butt{
+    width: 924px;
+     background-color: red;
+    color: #fff;
+    font-size: 20px;
+}
+.bussssssss{
+    margin-left: 65px;
+   
+}
+.butt:hover{
+
+    background-color: gray;
+    color: #000;
+}
+.oxironn{
+    background-color: rgb(246, 234, 234);
+    padding: 20px;
+    font-size: 30px;
+    text-align: end;
+    width: 84%;
+}
+
+
